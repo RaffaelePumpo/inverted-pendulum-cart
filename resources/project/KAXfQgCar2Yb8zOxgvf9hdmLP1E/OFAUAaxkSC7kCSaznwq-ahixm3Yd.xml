@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="requirements/batman_req_sn.slreqx" GroupUUID="" Icon="" Name="batman_req_sn" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="ecd59d4d-389c-4854-9d79-c585ed09738a"/>
+</Info>
